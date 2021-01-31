@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jon\\source\\repos\\Lesson_6-Hands_On\\Lesson_6-Hands_On\\Lesson_6-Hands_On.csproj": {}
+    "C:\\Users\\Jon\\Documents\\Programming\\Woz-U\\Finished\\_Unzipped\\Lesson_6-Hands_On\\Lesson_6-Hands_On\\Lesson_6-Hands_On.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jon\\source\\repos\\Lesson_6-Hands_On\\Lesson_6-Hands_On\\Lesson_6-Hands_On.csproj": {
+    "C:\\Users\\Jon\\Documents\\Programming\\Woz-U\\Finished\\_Unzipped\\Lesson_6-Hands_On\\Lesson_6-Hands_On\\Lesson_6-Hands_On.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jon\\source\\repos\\Lesson_6-Hands_On\\Lesson_6-Hands_On\\Lesson_6-Hands_On.csproj",
+        "projectUniqueName": "C:\\Users\\Jon\\Documents\\Programming\\Woz-U\\Finished\\_Unzipped\\Lesson_6-Hands_On\\Lesson_6-Hands_On\\Lesson_6-Hands_On.csproj",
         "projectName": "Lesson_6-Hands_On",
-        "projectPath": "C:\\Users\\Jon\\source\\repos\\Lesson_6-Hands_On\\Lesson_6-Hands_On\\Lesson_6-Hands_On.csproj",
+        "projectPath": "C:\\Users\\Jon\\Documents\\Programming\\Woz-U\\Finished\\_Unzipped\\Lesson_6-Hands_On\\Lesson_6-Hands_On\\Lesson_6-Hands_On.csproj",
         "packagesPath": "C:\\Users\\Jon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jon\\source\\repos\\Lesson_6-Hands_On\\Lesson_6-Hands_On\\obj\\",
+        "outputPath": "C:\\Users\\Jon\\Documents\\Programming\\Woz-U\\Finished\\_Unzipped\\Lesson_6-Hands_On\\Lesson_6-Hands_On\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jon\\AppData\\Roaming\\NuGet\\NuGet.Config",

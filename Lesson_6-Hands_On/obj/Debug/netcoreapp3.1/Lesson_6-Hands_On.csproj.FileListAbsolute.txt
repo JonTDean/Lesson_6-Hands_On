@@ -1,0 +1,13 @@
+C:\Users\Jon\Documents\Programming\Woz-U\Finished\Lesson_6-Hands_On\Lesson_6-Hands_On\bin\Debug\netcoreapp3.1\Lesson_6-Hands_On.exe
+C:\Users\Jon\Documents\Programming\Woz-U\Finished\Lesson_6-Hands_On\Lesson_6-Hands_On\bin\Debug\netcoreapp3.1\Lesson_6-Hands_On.deps.json
+C:\Users\Jon\Documents\Programming\Woz-U\Finished\Lesson_6-Hands_On\Lesson_6-Hands_On\bin\Debug\netcoreapp3.1\Lesson_6-Hands_On.runtimeconfig.json
+C:\Users\Jon\Documents\Programming\Woz-U\Finished\Lesson_6-Hands_On\Lesson_6-Hands_On\bin\Debug\netcoreapp3.1\Lesson_6-Hands_On.runtimeconfig.dev.json
+C:\Users\Jon\Documents\Programming\Woz-U\Finished\Lesson_6-Hands_On\Lesson_6-Hands_On\bin\Debug\netcoreapp3.1\Lesson_6-Hands_On.dll
+C:\Users\Jon\Documents\Programming\Woz-U\Finished\Lesson_6-Hands_On\Lesson_6-Hands_On\bin\Debug\netcoreapp3.1\Lesson_6-Hands_On.pdb
+C:\Users\Jon\Documents\Programming\Woz-U\Finished\Lesson_6-Hands_On\Lesson_6-Hands_On\obj\Debug\netcoreapp3.1\Lesson_6-Hands_On.csprojAssemblyReference.cache
+C:\Users\Jon\Documents\Programming\Woz-U\Finished\Lesson_6-Hands_On\Lesson_6-Hands_On\obj\Debug\netcoreapp3.1\Lesson_6-Hands_On.AssemblyInfoInputs.cache
+C:\Users\Jon\Documents\Programming\Woz-U\Finished\Lesson_6-Hands_On\Lesson_6-Hands_On\obj\Debug\netcoreapp3.1\Lesson_6-Hands_On.AssemblyInfo.cs
+C:\Users\Jon\Documents\Programming\Woz-U\Finished\Lesson_6-Hands_On\Lesson_6-Hands_On\obj\Debug\netcoreapp3.1\Lesson_6-Hands_On.csproj.CoreCompileInputs.cache
+C:\Users\Jon\Documents\Programming\Woz-U\Finished\Lesson_6-Hands_On\Lesson_6-Hands_On\obj\Debug\netcoreapp3.1\Lesson_6-Hands_On.dll
+C:\Users\Jon\Documents\Programming\Woz-U\Finished\Lesson_6-Hands_On\Lesson_6-Hands_On\obj\Debug\netcoreapp3.1\Lesson_6-Hands_On.pdb
+C:\Users\Jon\Documents\Programming\Woz-U\Finished\Lesson_6-Hands_On\Lesson_6-Hands_On\obj\Debug\netcoreapp3.1\Lesson_6-Hands_On.genruntimeconfig.cache
